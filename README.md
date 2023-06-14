@@ -1,3 +1,3 @@
 # muffin-vs-cupcake
-Machine learning model
-muffin vs cup cakes
+# Machine learning model
+# muffin vs cup cakes
